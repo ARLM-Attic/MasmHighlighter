@@ -2,9 +2,9 @@
 AssemblyInfo.cpp(38): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
   AssemblyInfo.cpp(38): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
   fasmdll_managed.cpp
-d:\github\asmhighlighter.git\trunk\fasmdll_managed\fasmdll_managed\AssemblyInfo.cpp(38): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
-  d:\github\asmhighlighter.git\trunk\fasmdll_managed\fasmdll_managed\AssemblyInfo.cpp(38): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+d:\github\masmhighlighter.git\trunk\fasmdll_managed\fasmdll_managed\AssemblyInfo.cpp(38): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  d:\github\masmhighlighter.git\trunk\fasmdll_managed\fasmdll_managed\AssemblyInfo.cpp(38): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
 fasmdll_managed.cpp(169): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
   Generating Code...
   .NETFramework,Version=v4.0.AssemblyAttributes.cpp
-  fasmdll_managed.vcxproj -> D:\Github\AsmHighlighter.git\trunk\fasmdll_managed\fasmdll_managed\bin\Debug\fasmdll_managed.dll
+  fasmdll_managed.vcxproj -> D:\Github\MasmHighlighter.git\trunk\fasmdll_managed\fasmdll_managed\bin\Debug\fasmdll_managed.dll
